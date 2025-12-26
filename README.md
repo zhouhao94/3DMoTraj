@@ -9,11 +9,11 @@
 </div>
 
 ##  Installation 🛠️
-First, download the repository
+First, download the repository:
 ```bash
 git clone https://github.com/zhouhao94/3DMoTraj.git
 ```
-and set up the environment
+and set up the environment:
 ```bash
 torch==2.1.1
 scipy==1.9.3
