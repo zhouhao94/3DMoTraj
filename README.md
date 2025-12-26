@@ -25,22 +25,33 @@ pandas==1.4.3
 ```
 
 ## Dataset 
-Build a dataset dir:
+Build a folder ```dataset```:
 ```bash
 cd 3DMoTraj
 mkdir dataset
 ```
-download our [3DMoTraj](xxx) and place them as follows:
+download [3DMoTraj](xxx) dataset and place them as follows:
 ```bash
 
 ```
 
-## Pretrained Models
-Build a saved_model dir:
+## Training
+For training new models on 3DMoTraj dataset, execute the following command:
 ```bash
 cd 3DMoTraj
-mkdir saved_model
+bash train.sh
 ```
+and the checkpoints will be saved in ```saved_models```.
+
+## Evaluation
+For evaluation the trained models on 3DMoTraj dataset, execute the follwing command:
+```bash
+cd 3DMoTraj
+bash test.sh
+```
+
+## CheckPoints
+For reproduction results on 3DMoTraj dataset, download our trained [checkpoint](xxx), put them in ```saved_models```, and execute the evaluation command.
 
 ## Bibtex 
 🌟 If you find our work helpful, please leave us a star and cite our paper. Thank you!
