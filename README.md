@@ -25,7 +25,6 @@
   </table>
 </div>
 
-
 This repo is the official PyTorch implementation for ICML 2025 paper [**3DMoTraj**](https://openreview.net/forum?id=jkVH7nLzUR&noteId=E8xLdmkLSv).
 
 ##  Installation 🛠️
