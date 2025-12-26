@@ -32,7 +32,22 @@ mkdir dataset
 ```
 download [3DMoTraj](xxx) dataset and place them as follows:
 ```bash
-
+./
+|-- dataset
+-- |-- 3Dscene1
+-- |-- 3Dscene2
+-- |-- 3Dscene3
+-- |-- 3Dscene4
+-- |-- 3Dscene5
+-- |-- 3Dscene6
+-- |-- 3Dscene7
+-- |-- 3Dscene8
+   |   |-- train
+   |   |   |-- *.txt
+   |   |-- val
+   |   |   |-- *.txt
+   |   |-- test
+   |   |   |-- *.txt
 ```
 
 ## Training
