@@ -8,9 +8,23 @@
 
 </div>
 
-<div align=center>
-<img src="architecture.pdf" alt="3DMoTraj" align="middle"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="pic/theory.png" alt="3DMoTraj-left" height="420"/>
+        <br/>
+        <sub><b>(a)</b> Decoupled prediction theory </sub>
+      </td>
+      <td align="center">
+        <img src="pic/architecture.png" alt="3DMoTraj-right" height="420"/>
+        <br/>
+        <sub><b>(b)</b> Decoupled prediction architecture </sub>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 This repo is the official PyTorch implementation for ICML 2025 paper [**3DMoTraj**](https://openreview.net/forum?id=jkVH7nLzUR&noteId=E8xLdmkLSv).
 
