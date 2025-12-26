@@ -8,6 +8,19 @@
 
 </div>
 
+##  Installation 🛠️
+First, download the repository
+```bash
+git clone https://github.com/zhouhao94/3DMoTraj.git
+```
+and set up the environment
+```bash
+torch==2.1.1
+scipy==1.9.3
+numpy==1.23.5
+pandas==1.4.3
+```
+
 ## Bibtex 
 🌟 If you find our work helpful, please leave us a star and cite our paper. Thank you!
 ```
