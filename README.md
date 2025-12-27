@@ -82,7 +82,7 @@ bash test.sh
 ```
 
 ## CheckPoints
-For reproduction results on 3DMoTraj dataset, download our trained [checkpoint](xxx), put them in ```saved_models```, and execute the evaluation command.
+For reproduction results on 3DMoTraj dataset, download our trained [checkpoint](https://drive.google.com/drive/folders/1Xvt1igPRCr4AJduZ_bgOKKJjIPVRC5Ae?usp=drive_link), put them in ```saved_models```, and execute the evaluation command.
 
 ## Bibtex 
 🌟 If you find our work helpful, please leave us a star and cite our paper. Thank you!
