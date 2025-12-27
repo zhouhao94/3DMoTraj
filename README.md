@@ -46,7 +46,7 @@ Build a folder ```dataset```:
 cd 3DMoTraj
 mkdir dataset
 ```
-download [3DMoTraj](xxx) dataset and place them as follows:
+download [3DMoTraj](https://drive.google.com/drive/folders/18GFLH2sybyJXYgeglnxUhognLaWnDmtM?usp=sharing) dataset and place them as follows:
 ```bash
 ./
 |-- dataset
